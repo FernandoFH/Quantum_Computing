@@ -1,9 +1,9 @@
 # Quantum Computing
 
 - [Author Lecture](https://github.com/hywong2/Intro_to_Quantum_Computing)
+- [Introduction to Quantum Computing](https://www.youtube.com/playlist?list=PLnK6MrIqGXsJfcBdppW3CKJ858zR8P4eP)
 - [Quantum Computing: Algorithm, Programming and Hardware, an Introduction](https://www.youtube.com/playlist?list=PLnK6MrIqGXsL1KShnocSdwNSiKnBodpie)
 
-https://www.youtube.com/watch?v=c0D8X4eN_Cg&list=PLnK6MrIqGXsJfcBdppW3CKJ858zR8P4eP
 
 ### Books: 
 _____

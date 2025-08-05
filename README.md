@@ -4,6 +4,8 @@
 - [Introduction to Quantum Computing](https://www.youtube.com/playlist?list=PLnK6MrIqGXsJfcBdppW3CKJ858zR8P4eP)
 - [Quantum Computing: Algorithm, Programming and Hardware, an Introduction](https://www.youtube.com/playlist?list=PLnK6MrIqGXsL1KShnocSdwNSiKnBodpie)
 
+- [Quantum Computing For Everyone - An Introduction](https://www.coursera.org/learn/quantum-computing-for-everyone-an-introduction)
+
 
 ### Books: 
 _____

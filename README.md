@@ -5,8 +5,8 @@
 _____ 
 
 - [Introduction to Quantum Computing](https://github.com/hywong2/Intro_to_Quantum_Computing)
-- [Playlist youtube Quantum Computing](https://www.youtube.com/playlist?list=PLnK6MrIqGXsJfcBdppW3CKJ858zR8P4eP)
-- [Quantum Computing: Algorithm, Programming and Hardware, an Introduction](https://www.youtube.com/playlist?list=PLnK6MrIqGXsL1KShnocSdwNSiKnBodpie)
+- [Playlist Youtube Quantum Computing](https://www.youtube.com/playlist?list=PLnK6MrIqGXsJfcBdppW3CKJ858zR8P4eP)
+- [Playlist Youtube Quantum Computing: Algorithm, Programming and Hardware, an Introduction](https://www.youtube.com/playlist?list=PLnK6MrIqGXsL1KShnocSdwNSiKnBodpie)
 
 The Complete Quantum Computing Course for Beginners Specialization
 https://www.coursera.org/specializations/packt-the-complete-quantum-computing-course-for-beginners

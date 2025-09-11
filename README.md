@@ -13,17 +13,17 @@ _____
 
 - [Quantum Mechanics for Engineers Specialization](https://www.coursera.org/specializations/quantum-mechanics-for-engineers)
 
-Introduction to Quantum Information
-https://www.coursera.org/learn/introduction-to-quantum-information
+- Introduction to Quantum Information
+  - https://www.coursera.org/learn/introduction-to-quantum-information
 
-Exploring Quantum Physics
-https://www.coursera.org/learn/quantum-physics
+- Exploring Quantum Physics
+  - https://www.coursera.org/learn/quantum-physics
 
-Understanding Modern Physics I: Relativity and Cosmology
-https://www.coursera.org/learn/understanding-modern-physics-1-relativity-and-cosmology
+- Understanding Modern Physics I: Relativity and Cosmology
+  - https://www.coursera.org/learn/understanding-modern-physics-1-relativity-and-cosmology
 
-Understanding Modern Physics II: Quantum Mechanics and Atoms
-https://www.coursera.org/learn/understanding-modern-physics-2-quantum-mechanics-and-atoms
+- Understanding Modern Physics II: Quantum Mechanics and Atoms
+  - https://www.coursera.org/learn/understanding-modern-physics-2-quantum-mechanics-and-atoms
 
 ### Books: 
 _____

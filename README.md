@@ -4,7 +4,10 @@
 - [Certificación Profesional en Quantum Computing - ITBA](./CertificacionProfesional_Quantum.md)
 
 - [Hands-on quantum error correction with Google Quantum AI](https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/learn/quantum-error-correction)
+
 - [The Complete Quantum Computing Course for Beginners Specialization - Packt](https://www.coursera.org/specializations/packt-the-complete-quantum-computing-course-for-beginners)
+- [Practical Quantum Computing with IBM Qiskit for Beginners - Packt](https://www.coursera.org/learn/packt-beginners-guide-to-practical-quantum-computing-with-ibm-qiskit-w6mos)
+
 _____ 
 
 - [Introduction to Quantum Computing](https://github.com/hywong2/Intro_to_Quantum_Computing)

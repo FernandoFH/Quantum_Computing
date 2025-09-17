@@ -8,6 +8,7 @@
 - [The Complete Quantum Computing Course for Beginners Specialization - Packt](https://www.coursera.org/specializations/packt-the-complete-quantum-computing-course-for-beginners)
 - [Practical Quantum Computing with IBM Qiskit for Beginners - Packt](https://www.coursera.org/learn/packt-beginners-guide-to-practical-quantum-computing-with-ibm-qiskit-w6mos)
 
+- [NVIDIA CUDA-Q](https://nvidia.github.io/cuda-quantum/latest/using/quick_start.html)
 _____ 
 
 - [Introduction to Quantum Computing](https://github.com/hywong2/Intro_to_Quantum_Computing)

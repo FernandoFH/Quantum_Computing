@@ -45,8 +45,7 @@ _____
   - https://www.youtube.com/playlist?list=PLUl4u3cNGP61AV6bhf4mB3tCyWQrI_uU5
 
 _____ 
-
 ### Books: 
-_____
+
 ### Introduction to Quantum Computing: From a Layperson to a Programmer in 30 Steps 
 ### Quantum Computing Architecture and Hardware for Engineers: Step by Step

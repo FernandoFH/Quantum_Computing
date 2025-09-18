@@ -29,6 +29,23 @@ _____
 - Understanding Modern Physics II: Quantum Mechanics and Atoms
   - https://www.coursera.org/learn/understanding-modern-physics-2-quantum-mechanics-and-atoms
 
+_____ 
+### MIT Quantum RoadMap
+
+- MIT 8.04 Quantum Physics I, Spring 2016
+  - https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G
+
+- MIT 8.05 Quantum Physics II, Fall 2013
+  - https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx
+
+- MIT 8.06 Quantum Physics III, Spring 2018
+  - https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L
+ 
+- MIT 8.323 Relativistic Quantum Field Theory I, Spring 2023
+  - https://www.youtube.com/playlist?list=PLUl4u3cNGP61AV6bhf4mB3tCyWQrI_uU5
+
+_____ 
+
 ### Books: 
 _____
 ### Introduction to Quantum Computing: From a Layperson to a Programmer in 30 Steps 

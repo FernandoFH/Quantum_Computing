@@ -1,4 +1,4 @@
-## Certificación Profesional en Quantum Computing: bases, roadmap y aplicaciones
+## Certificación Profesional en Quantum Computing: Bases, Roadmap y Aplicaciones
 
 ### Perfil del participante
 

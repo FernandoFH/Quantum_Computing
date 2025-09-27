@@ -56,9 +56,9 @@ Aprobación de evaluación final. Se podrá elegir entre una de las dos opciones
 
 ### Módulo 2. Aplicaciones en la industria
 - Casos de Uso en las Industrias de:
-- Ciberseguridad
-- Salud y Genética
-- Finanzas
+  - Ciberseguridad
+  - Salud y Genética
+  - Finanzas
 - Computación Cuántica para resolver problemas de Simulación y Optimización
 - Por qué es necesario comenzar ya con el estudio y prototipado de las soluciones cuánticas
 

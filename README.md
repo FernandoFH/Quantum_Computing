@@ -2,7 +2,6 @@
 
 - [Certificación Profesional en Quantum Computing - ITBA](./CertificacionProfesional_Quantum.md)
 
-_____ 
 ### Books Packt: 
 
 - Essential Mathematics for Quantum Computing

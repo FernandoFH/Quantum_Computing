@@ -1,21 +1,20 @@
 # Quantum Computing
 
+### Essential Level
+
+- Essential Mathematics for Quantum Computing - Book Packt
+
 - [Certificación Profesional en Quantum Computing - ITBA](./CertificacionProfesional_Quantum.md)
 
 ### Introduction to Quantum Computing: From a Layperson to a Programmer in 30 Steps 
 
 - [Playlist Youtube: Quantum Computing](https://www.youtube.com/playlist?list=PLnK6MrIqGXsJfcBdppW3CKJ858zR8P4eP)
 
+- Quantum Computing Algorithms - Book Packt
 
-### Books Packt: 
 - [Introduction to Quantum Computing](https://github.com/hywong2/Intro_to_Quantum_Computing)
 
-- Essential Mathematics for Quantum Computing
-- Quantum Computing Algorithms
-
 _____ 
-
-# Quantum Computing
 
 - [Quantum Computing For Everyone - An Introduction](https://www.coursera.org/learn/quantum-computing-for-everyone-an-introduction)
 
@@ -62,15 +61,20 @@ _____
 
 - Electromagnetics
 - Signal Processig/System
-- Embedded System
 - Linear System/Circuits
 - Python
+- Microwave / RF Engineering
+- Circuit/PCB Desing 
+- Computer Architecture
+- VLSI
+- IC Desing
+- FPGAs
+- Embedded System
 
 - Modern Physics
-- Mocrowave / RF Engineering
 - Lab Clases that teach measurement (Osciloscope, VNA, TDR, DC Source)
 - Device Physics
-- Quenatum computing 
+- Quantum computing 
 
 _____ 
 ### Books: 

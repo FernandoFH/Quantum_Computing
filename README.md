@@ -1,6 +1,6 @@
 # Quantum Computing
 
-### Essential Level
+## Essential Level
 
 - Essential Mathematics for Quantum Computing - Book Packt
 

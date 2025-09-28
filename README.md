@@ -1,7 +1,18 @@
 # Quantum Computing
 
-- [Quantum Computing For Everyone - An Introduction](https://www.coursera.org/learn/quantum-computing-for-everyone-an-introduction)
 - [Certificación Profesional en Quantum Computing - ITBA](./CertificacionProfesional_Quantum.md)
+
+_____ 
+### Books Packt: 
+
+- Essential Mathematics for Quantum Computing
+- Quantum Computing Algorithms
+
+_____ 
+
+# Quantum Computing
+
+- [Quantum Computing For Everyone - An Introduction](https://www.coursera.org/learn/quantum-computing-for-everyone-an-introduction)
 
 - [Hands-on quantum error correction with Google Quantum AI](https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/learn/quantum-error-correction)
 
@@ -43,6 +54,20 @@ _____
  
 - MIT 8.323 Relativistic Quantum Field Theory I, Spring 2023
   - https://www.youtube.com/playlist?list=PLUl4u3cNGP61AV6bhf4mB3tCyWQrI_uU5
+
+_____ 
+
+- Electromagnetics
+- Signal Processig/System
+- Embedded System
+- Linear System/Circuits
+- Python
+
+- Modern Physics
+- Mocrowave / RF Engineering
+- Lab Clases that teach measurement (Osciloscope, VNA, TDR, DC Source)
+- Device Physics
+- Quenatum computing 
 
 _____ 
 ### Books: 

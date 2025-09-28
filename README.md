@@ -2,7 +2,13 @@
 
 - [Certificación Profesional en Quantum Computing - ITBA](./CertificacionProfesional_Quantum.md)
 
+### Introduction to Quantum Computing: From a Layperson to a Programmer in 30 Steps 
+
+- [Playlist Youtube: Quantum Computing](https://www.youtube.com/playlist?list=PLnK6MrIqGXsJfcBdppW3CKJ858zR8P4eP)
+
+
 ### Books Packt: 
+- [Introduction to Quantum Computing](https://github.com/hywong2/Intro_to_Quantum_Computing)
 
 - Essential Mathematics for Quantum Computing
 - Quantum Computing Algorithms
@@ -21,8 +27,6 @@ _____
 - [NVIDIA CUDA-Q](https://nvidia.github.io/cuda-quantum/latest/using/quick_start.html)
 _____ 
 
-- [Introduction to Quantum Computing](https://github.com/hywong2/Intro_to_Quantum_Computing)
-- [Playlist Youtube: Quantum Computing](https://www.youtube.com/playlist?list=PLnK6MrIqGXsJfcBdppW3CKJ858zR8P4eP)
 - [Playlist Youtube: Quantum Computing: Algorithm, Programming and Hardware, an Introduction](https://www.youtube.com/playlist?list=PLnK6MrIqGXsL1KShnocSdwNSiKnBodpie)
 
 - [Quantum Mechanics for Engineers Specialization](https://www.coursera.org/specializations/quantum-mechanics-for-engineers)
@@ -71,5 +75,4 @@ _____
 _____ 
 ### Books: 
 
-### Introduction to Quantum Computing: From a Layperson to a Programmer in 30 Steps 
 ### Quantum Computing Architecture and Hardware for Engineers: Step by Step

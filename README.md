@@ -4,7 +4,11 @@
 
 - Essential Mathematics for Quantum Computing - Book Packt
 
+- [Linear algebra](https://www.khanacademy.org/math/linear-algebra) 
+
 - [Certificación Profesional en Quantum Computing - ITBA](./CertificacionProfesional_Quantum.md)
+
+- [Quantum computing for the very curious](https://quantum.country/qcvc)
 
 ### Introduction to Quantum Computing: From a Layperson to a Programmer in 30 Steps 
 
@@ -13,6 +17,8 @@
 - Quantum Computing Algorithms - Book Packt
 
 - [Introduction to Quantum Computing](https://github.com/hywong2/Intro_to_Quantum_Computing)
+
+- [Qiskit Global Summer School 2025](https://www.youtube.com/playlist?list=PLOFEBzvs-VvoIfbpOb_geVnwFmbW6ij0m)
 
 _____ 
 
@@ -24,6 +30,8 @@ _____
 - [Practical Quantum Computing with IBM Qiskit for Beginners - Packt](https://www.coursera.org/learn/packt-beginners-guide-to-practical-quantum-computing-with-ibm-qiskit-w6mos)
 
 - [NVIDIA CUDA-Q](https://nvidia.github.io/cuda-quantum/latest/using/quick_start.html)
+- [IBM Quantum Platform](https://quantum.cloud.ibm.com/learning/es)
+- [Google - Quantum AI](https://quantumai.google/cirq)
 _____ 
 
 - [Playlist Youtube: Quantum Computing: Algorithm, Programming and Hardware, an Introduction](https://www.youtube.com/playlist?list=PLnK6MrIqGXsL1KShnocSdwNSiKnBodpie)
@@ -41,6 +49,9 @@ _____
 
 - Understanding Modern Physics II: Quantum Mechanics and Atoms
   - https://www.coursera.org/learn/understanding-modern-physics-2-quantum-mechanics-and-atoms
+
+- Quantum Security and Defence
+  - https://www.qsecdef.com/?via=kiran
 
 _____ 
 ### MIT Quantum RoadMap

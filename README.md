@@ -30,7 +30,7 @@ _____
 - [Practical Quantum Computing with IBM Qiskit for Beginners - Packt](https://www.coursera.org/learn/packt-beginners-guide-to-practical-quantum-computing-with-ibm-qiskit-w6mos)
 
 - [NVIDIA CUDA-Q](https://nvidia.github.io/cuda-quantum/latest/using/quick_start.html)
-- [IBM Quantum Platform](https://quantum.cloud.ibm.com/learning/es)
+- [IBM Quantum Platform](https://quantum.cloud.ibm.com/learning/es) 
 - [Google - Quantum AI](https://quantumai.google/cirq)
 _____ 
 

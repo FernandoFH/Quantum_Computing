@@ -1,11 +1,5 @@
 # Quantum Computing
 
-## Essential Level
-
-- Essential Mathematics for Quantum Computing - Book Packt
-
-- [Linear algebra](https://www.khanacademy.org/math/linear-algebra) 
-
 - [Certificación Profesional en Quantum Computing - ITBA](./CertificacionProfesional_Quantum.md)
 
 - [Quantum computing for the very curious](https://quantum.country/qcvc)

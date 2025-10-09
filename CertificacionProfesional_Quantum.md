@@ -120,7 +120,7 @@ Aunque la correlación es instantánea, no permite transmitir información más 
 
 _💡 Este fenómeno es esencial para la teletransportación cuántica, la criptografía cuántica y los protocolos de corrección de errores cuánticos._
 
-**Quantum gates**
+**Quantum Gates**
 
 Las compuertas cuánticas son los bloques fundamentales de los circuitos cuánticos, análogas a las puertas lógicas clásicas, pero operan sobre qubits mediante transformaciones unitarias.
 

@@ -25,3 +25,18 @@
 - Passion for solving complex problems and challenges in a highly technical and scientific environment
 - Ability to travel domestically and (potentially) internationally up to 10%
 - Experience evaluating and implementing quantum error correction protocols
+
+### PERFILES
+
+- DESARROLLADORES DE HARDWARE - Mucho conocimiento de física cuántica
+- DESARROLLADORES ALGORITMOS - Mucho conocimiento de física cuántica + matemática
+- DESARROLLADORES DE SOFTWARE - Conocimiento intermedio de física cuántica + matemática + programación
+- IMPLEMENTADORES / USUARIOS - Conocimiento básico de computación cuántica + conocimiento básico de matemática + programación
+
+### CASOS DE USO 
+
+- FINANZAS - Optimización de Portfolios
+- QUÍMICA & PHARMA - Descubrimiento de nuevos medicamentos
+- MATERIALES - Descubrimiento de nuevos materiales
+- INTELIGENCIA ARTIFICIAL - Nuevo paradigma de Quantum AI
+COMUNICACIONES & SEGURIDAD - Quantum Internet / Quantum Cryptography / Quantum Communications

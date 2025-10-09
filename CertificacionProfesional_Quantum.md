@@ -96,6 +96,8 @@ El **entrelazamiento cuántico** es un fenómeno de la mecánica cuántica en el
 
 **Quantum gates**
 
+![Quantum gate](./images/QuantumGates.png)
+
 
 
 

@@ -142,3 +142,13 @@ Estas operaciones modifican el estado cuántico (amplitud y fase) del sistema.
 **_3. Ejecutar en el hardware objetivo (o simulador)_.** Ejecutar el circuito cuántico optimizado en el backend elegido (dispositivo físico o simulador cuántico).
 
 **_4. Posprocesar los resultados_.** Aplicar mitigación de errores y analizar los resultados de las mediciones para extraer el resultado clásico final.
+
+
+### **Clase 2**: 
+
+Identifiucar que probelemas se pueden resover con computacion Quntiuca 
+
+
+
+
+

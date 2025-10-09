@@ -82,8 +82,19 @@ Aprobación de evaluación final. Se podrá elegir entre una de las dos opciones
 
 ### Módulo 6. Trabajando con computadoras físicas reales
 - Demostración de un programa realizado en Python que corra en máquinas cuánticas tanto en similares como de hardware real.
+_______ 
 
+### **Clase # 1**: 
 
+**El experimento de la doble rendija:** demuestra la naturaleza ondulatoria y corpuscular de la luz y la materia, mostrando cómo las partículas o fotones, al pasar por dos aberturas, crean un patrón de interferencia de ondas en una pantalla, pero pierden este patrón si se intenta observar por cuál rendija pasan, comportándose como partículas
+
+La **interferencia cuántica** de onda describe el fenómeno en el que las partículas cuánticas, como electrones y fotones, exhiben un comportamiento ondulatorio, permitiendo que sus funciones de onda (que representan la probabilidad de encontrar la partícula) interfieran entre sí. 
+
+Una partícula en  **superposición cuántica** es aquella que existe simultáneamente en múltiples estados o configuraciones (como dos lugares diferentes o dos estados de spin) hasta que se realiza una medición. Este es un fenómeno de la mecánica cuántica que no tiene un análogo directo en nuestra experiencia cotidiana, donde los objetos solo pueden estar en un estado definido a la vez. 
+
+El **entrelazamiento cuántico** es un fenómeno de la mecánica cuántica en el que dos o más partículas se vinculan de tal manera que comparten un estado común, incluso cuando están separadas por grandes distancias. La característica principal es que al medir una propiedad de una partícula entrelazada, el estado de la otra (o las otras) se determina instantáneamente, sin importar qué tan separadas estén. Albert Einstein lo llamó "acción fantasmal a distancia", pero aunque la conexión es instantánea, no puede usarse para transmitir información más rápido que la luz. 
+
+**Quantum gates**
 
 
 

@@ -135,10 +135,10 @@ Estas operaciones modifican el estado cuántico (amplitud y fase) del sistema.
 
 **Workflow para resolver un problema en una computadora cuántica**
 
-_1. Mapear el problema a circuitos cuánticos y operadores_. Traducir el problema clásico a una representación cuántica: definir qubits, compuertas y, si corresponde, el Hamiltoniano que describe la evolución del sistema.
+**_1. Mapear el problema a circuitos cuánticos y operadores_.** Traducir el problema clásico a una representación cuántica: definir qubits, compuertas y, si corresponde, el Hamiltoniano que describe la evolución del sistema.
 
-_2. Optimizar el circuito para el hardware objetivo_. Reducir la profundidad del circuito, Minimizar la sensibilidad al ruido, Adaptar la topología del circuito al conjunto de compuertas nativas del dispositivo.
+**_2. Optimizar el circuito para el hardware objetivo_.** Reducir la profundidad del circuito, Minimizar la sensibilidad al ruido, Adaptar la topología del circuito al conjunto de compuertas nativas del dispositivo.
 
-_3. Ejecutar en el hardware objetivo (o simulador)_. Ejecutar el circuito cuántico optimizado en el backend elegido (dispositivo físico o simulador cuántico).
+**_3. Ejecutar en el hardware objetivo (o simulador)_.** Ejecutar el circuito cuántico optimizado en el backend elegido (dispositivo físico o simulador cuántico).
 
-_4. Posprocesar los resultados_. Aplicar mitigación de errores y analizar los resultados de las mediciones para extraer el resultado clásico final.
+**_4. Posprocesar los resultados_.** Aplicar mitigación de errores y analizar los resultados de las mediciones para extraer el resultado clásico final.

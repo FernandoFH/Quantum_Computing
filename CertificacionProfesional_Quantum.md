@@ -31,6 +31,8 @@ Si bien el curso es para principiantes, se recomiendan conocimientos mínimos pa
 
 - Matemática:
   - Probabilidad
+  - Funciones Complejas
+  - Cálculo Numérico 
   - Álgebra Lineal: operaciones con vectores y matrices
 
 - Lenguajes de Programación

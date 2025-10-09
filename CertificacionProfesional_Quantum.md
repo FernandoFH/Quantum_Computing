@@ -84,21 +84,65 @@ Aprobación de evaluación final. Se podrá elegir entre una de las dos opciones
 - Demostración de un programa realizado en Python que corra en máquinas cuánticas tanto en similares como de hardware real.
 _______ 
 
-### **Clase # 1**: 
+### **Clase 1 – Introducción a la Computación Cuántica**: 
 
-**El experimento de la doble rendija:** demuestra la naturaleza ondulatoria y corpuscular de la luz y la materia, mostrando cómo las partículas o fotones, al pasar por dos aberturas, crean un patrón de interferencia de ondas en una pantalla, pero pierden este patrón si se intenta observar por cuál rendija pasan, comportándose como partículas
+**El experimento de la doble rendija**
 
-La **interferencia cuántica** de onda describe el fenómeno en el que las partículas cuánticas, como electrones y fotones, exhiben un comportamiento ondulatorio, permitiendo que sus funciones de onda (que representan la probabilidad de encontrar la partícula) interfieran entre sí. 
+El experimento de la doble rendija demuestra la dualidad onda-partícula de la luz y la materia.
+Cuando se hace pasar un haz de partículas (como fotones o electrones) por dos rendijas, se observa en la pantalla un patrón de interferencia, típico de las ondas.
+Sin embargo, si se intenta observar por cuál rendija pasa cada partícula, el patrón desaparece, y las partículas se comportan como corpúsculos individuales.
+Este experimento revela la naturaleza probabilística y no determinista del mundo cuántico.
 
-Una partícula en  **superposición cuántica** es aquella que existe simultáneamente en múltiples estados o configuraciones (como dos lugares diferentes o dos estados de spin) hasta que se realiza una medición. Este es un fenómeno de la mecánica cuántica que no tiene un análogo directo en nuestra experiencia cotidiana, donde los objetos solo pueden estar en un estado definido a la vez. 
+**Interferencia cuántica**
 
-El **entrelazamiento cuántico** es un fenómeno de la mecánica cuántica en el que dos o más partículas se vinculan de tal manera que comparten un estado común, incluso cuando están separadas por grandes distancias. La característica principal es que al medir una propiedad de una partícula entrelazada, el estado de la otra (o las otras) se determina instantáneamente, sin importar qué tan separadas estén. Albert Einstein lo llamó "acción fantasmal a distancia", pero aunque la conexión es instantánea, no puede usarse para transmitir información más rápido que la luz. 
+La interferencia cuántica ocurre cuando las funciones de onda de distintas partículas (o del mismo sistema en diferentes caminos posibles) interfieren entre sí, combinando sus probabilidades.
+Esto explica por qué un sistema cuántico puede mostrar efectos de cancelación o refuerzo en ciertas mediciones, dependiendo de cómo se superponen las amplitudes de probabilidad.
+
+_👉 En términos prácticos, esta interferencia es la base del paralelismo cuántico que aprovechan los algoritmos cuánticos._
+
+**Superposición cuántica**
+
+Una partícula en superposición cuántica puede existir simultáneamente en varios estados posibles hasta que se realiza una medición.
+Por ejemplo, un electrón puede estar en dos posiciones distintas, o un qubit puede representar “0” y “1” al mismo tiempo.
+Al medirse, el sistema “colapsa” a un único estado.
+
+Este principio no tiene un análogo en la física clásica, y es una de las bases que permite el poder de cómputo exponencial de las computadoras cuánticas.
+
+**Entrelazamiento cuántico**
+
+El entrelazamiento cuántico es un fenómeno donde dos o más partículas comparten un estado cuántico común, de modo que la medición de una afecta instantáneamente a las demás, sin importar la distancia que las separe.
+
+Einstein lo llamó “acción fantasmal a distancia”.
+
+Aunque la correlación es instantánea, no permite transmitir información más rápido que la luz, preservando los principios de la relatividad.
+
+_💡 Este fenómeno es esencial para la teletransportación cuántica, la criptografía cuántica y los protocolos de corrección de errores cuánticos._
 
 **Quantum gates**
 
+Las compuertas cuánticas son los bloques fundamentales de los circuitos cuánticos, análogas a las puertas lógicas clásicas, pero operan sobre qubits mediante transformaciones unitarias.
+
+Estas operaciones modifican el estado cuántico (amplitud y fase) del sistema.
+
 ![Quantum gate](./images/QuantumGates.png)
 
+	•	Hadamard (H): crea superposición.
+	•	Pauli-X, Y, Z: rotaciones en los ejes del espacio de Bloch.
+	•	CNOT: genera entrelazamiento entre dos qubits.
+	•	T y S gates: aplican rotaciones de fase.
 
+**Workflow para resolver un problema en una computadora cuántica**
 
+1. Mapear el problema a circuitos cuánticos y operadores
+	•	Traducir el problema clásico a una representación cuántica: definir qubits, compuertas y, si corresponde, el Hamiltoniano que describe la evolución del sistema.
 
+2. Optimizar el circuito para el hardware objetivo
+	•	Reducir la profundidad del circuito.
+	•	Minimizar la sensibilidad al ruido.
+	•	Adaptar la topología del circuito al conjunto de compuertas nativas del dispositivo.
 
+3. Ejecutar en el hardware objetivo (o simulador)
+	•	Ejecutar el circuito cuántico optimizado en el backend elegido (dispositivo físico o simulador cuántico).
+
+4. Posprocesar los resultados
+	•	Aplicar mitigación de errores y analizar los resultados de las mediciones para extraer el resultado clásico final.

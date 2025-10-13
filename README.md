@@ -15,7 +15,6 @@
 - [Qiskit Global Summer School 2025](https://www.youtube.com/playlist?list=PLOFEBzvs-VvoIfbpOb_geVnwFmbW6ij0m)
 
 _____ 
-
 - [Quantum Computing For Everyone - An Introduction](https://www.coursera.org/learn/quantum-computing-for-everyone-an-introduction)
 
 - [Hands-on quantum error correction with Google Quantum AI](https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/learn/quantum-error-correction)
@@ -23,6 +22,7 @@ _____
 - [The Complete Quantum Computing Course for Beginners Specialization - Packt](https://www.coursera.org/specializations/packt-the-complete-quantum-computing-course-for-beginners)
 - [Practical Quantum Computing with IBM Qiskit for Beginners - Packt](https://www.coursera.org/learn/packt-beginners-guide-to-practical-quantum-computing-with-ibm-qiskit-w6mos)
 
+- [Amazon Braket](https://aws.amazon.com/es/braket/)
 - [NVIDIA CUDA-Q](https://nvidia.github.io/cuda-quantum/latest/using/quick_start.html)
 - [IBM Quantum Platform](https://quantum.cloud.ibm.com/learning/es) 
 - [Google - Quantum AI](https://quantumai.google/cirq)

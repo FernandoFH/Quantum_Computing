@@ -163,6 +163,10 @@ Matemáticamente, un qubit se representa como:
 
 |\psi\rangle = \alpha|0\rangle + \beta|1\rangle
 
+$$
+|\psi\rangle = \alpha|0\rangle + \beta|1\rangle
+$$
+
 Donde:
 	•	\alpha y \beta son números complejos que indican las amplitudes de probabilidad de que el qubit esté en el estado 0 o 1.
 	•	La condición |\alpha|^2 + |\beta|^2 = 1 asegura que las probabilidades sumen 1.

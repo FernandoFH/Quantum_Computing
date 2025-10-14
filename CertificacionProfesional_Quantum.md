@@ -143,6 +143,7 @@ Estas operaciones modifican el estado cuántico (amplitud y fase) del sistema.
 
 **_4. Posprocesar los resultados_.** Aplicar mitigación de errores y analizar los resultados de las mediciones para extraer el resultado clásico final.
 
+_______ 
 
 ### **Clase 2 - Modelado de Problemas y Qubits**: 
 
@@ -152,8 +153,6 @@ El desafío más importante en la computación cuántica actual es modelar corre
 
 _La computación cuántica no reemplaza a la computación clásica: existen problemas que no son comparables ni resolubles mediante algoritmos cuánticos.
 Su objetivo es complementar los métodos clásicos y ofrecer ventajas en áreas específicas._
-
-⸻
 
 **Quantum Bits (Qubits)**
 
@@ -259,4 +258,26 @@ Una de las áreas más prometedoras usa criptografía basada en retículos (latt
 
 **Librería recomendada:**
 👉 liboqs (Open Quantum Safe) —  https://openquantumsafe.org/
+
+_______ 
+
+### **Clase 3 - **: 
+
+Conceptos basicos de matematica, Kets and Brads!
+
+- Clasical Bits
+
+0 -> |0> (1 0)
+1 -> |1> (0 1)
+
+
+
+
+
+
+
+
+
+
+
 

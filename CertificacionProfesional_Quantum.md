@@ -144,11 +144,119 @@ Estas operaciones modifican el estado cuántico (amplitud y fase) del sistema.
 **_4. Posprocesar los resultados_.** Aplicar mitigación de errores y analizar los resultados de las mediciones para extraer el resultado clásico final.
 
 
-### **Clase 2**: 
+### **Clase 2 - Modelado de Problemas y Qubits**: 
 
-Identifiucar que probelemas se pueden resover con computacion Quntiuca 
+🎯 Introducción
+
+El desafío más importante en la computación cuántica actual es modelar correctamente los problemas para que puedan resolverse mediante circuitos cuánticos y operadores.
+
+_La computación cuántica no reemplaza a la computación clásica: existen problemas que no son comparables ni resolubles mediante algoritmos cuánticos.
+Su objetivo es complementar los métodos clásicos y ofrecer ventajas en áreas específicas._
+
+⸻
+
+**Quantum Bits (Qubits)**
+
+Un qubit es la unidad básica de información cuántica, análogo al bit clásico, pero con una diferencia fundamental:
+mientras un bit solo puede tomar valores 0 o 1, un qubit puede estar en una superposición de ambos estados al mismo tiempo.
+
+Matemáticamente, un qubit se representa como:
+
+|\psi\rangle = \alpha|0\rangle + \beta|1\rangle
+
+Donde:
+	•	\alpha y \beta son números complejos que indican las amplitudes de probabilidad de que el qubit esté en el estado 0 o 1.
+	•	La condición |\alpha|^2 + |\beta|^2 = 1 asegura que las probabilidades sumen 1.
+
+Esta capacidad de superposición permite el procesamiento paralelo de información, clave para el poder de la computación cuántica.
+
+**Esfera de Bloch**
+
+La esfera de Bloch es una representación geométrica tridimensional del estado de un qubit.
+Permite visualizar cómo se comporta y evoluciona en el tiempo.
+	•	El polo norte representa el estado |0\rangle.
+	•	El polo sur, el estado |1\rangle.
+	•	Cualquier punto sobre la superficie de la esfera representa un estado intermedio (superposición).
+
+Las compuertas cuánticas actúan como rotaciones en esta esfera, modificando el ángulo o la fase del qubit.
+Por ejemplo:
+	•	La puerta Hadamard (H) coloca al qubit en superposición perfecta.
+	•	Las puertas Pauli-X, Y, Z lo rotan alrededor de los ejes correspondientes.
+
+**Tipos de Qubits**
+
+Los qubits pueden implementarse físicamente de diferentes formas, según la tecnología y los principios físicos empleados.
+Los más comunes son:
+
+	1.	Trampas de Iones
+		•	Utilizan iones cargados suspendidos en un campo electromagnético.
+		•	Los estados cuánticos se controlan con láseres de alta precisión.
+		•	Ventaja: alta fidelidad y estabilidad.
+			•	Ejemplo: sistemas de IonQ o Honeywell Quantum.
+			
+	2.	Qubits Superconductores
+		•	Se basan en circuitos eléctricos superconductores enfriados a temperaturas cercanas al cero absoluto.
+		•	Los estados 0 y 1 corresponden a diferentes niveles de corriente o energía.
+		•	Ventaja: escalables y compatibles con tecnologías de microfabricación.
+			•	Ejemplo: IBM Quantum, Google Sycamore, Rigetti.
+			
+	3.	Qubits Fotónicos
+		•	Usan fotones individuales como portadores de información.
+		•	Son resistentes al ruido y pueden transmitir información a largas distancias.
+		•	Son esenciales para comunicaciones cuánticas y el internet cuántico.
+		
+	4.	Qubits de Spin o de Silicio
+		•	Basados en el spin (momento angular intrínseco) de electrones confinados en semiconductores.
+		•	Permiten integración con tecnologías CMOS (chips convencionales).
+
+**Procesamiento de la Información**
+
+| Tipo de Computación | Naturaleza de los Datos | Procesamiento |
+|----------------------|--------------------------|---------------|
+| **Clásica** | Distribución discreta (0 o 1) | Secuencial y lógico |
+| **Cuántica** | Distribución continua de probabilidades | Paralelo y probabilístico |
+
+En la computación cuántica, los datos se procesan de manera **no determinista** y se manipulan mediante **operadores unitarios** que preservan la probabilidad total.
+
+**Conceptos Clave:**
+
+**🧩 Modelado Cuántico**
+
+El proceso de traducir un problema clásico en un modelo cuántico (circuitos, operadores y Hamiltonianos).
+Cada modelo debe ajustarse al hardware cuántico y optimizar la profundidad y coherencia del circuito.
+
+**Utilidad, Ventaja y Supremacía Cuántica**
+
+| Concepto | Descripción |
+|-----------|-------------|
+| **Utilidad Cuántica** | Se logra cuando un sistema cuántico puede **modelar un problema real** de interés práctico (por ejemplo, simular una molécula con 100 qubits). |
+| **Ventaja Cuántica** | Cuando un computador cuántico **resuelve un problema más rápido o más eficientemente** que el mejor computador clásico disponible. |
+| **Supremacía Cuántica** | Situación donde un computador cuántico **realiza una tarea imposible de replicar clásicamente** en un tiempo razonable (demostrada por Google en 2019 con el chip *Sycamore*). |
 
 
+**Casos de Uso**
 
+| Área | Aplicación Cuántica |
+|------|----------------------|
+| **Finanzas** | Optimización de portafolios y gestión de riesgo. |
+| **Química** | Descubrimiento de nuevos fármacos mediante simulación molecular. |
+| **Materiales** | Diseño de materiales con propiedades específicas (superconductores, catalizadores, etc.). |
+| **Comunicaciones y Seguridad** | Internet cuántico, criptografía cuántica y protocolos de comunicación seguros. |
 
+**Repetidores Cuánticos**
+
+Los repetidores cuánticos son dispositivos que permiten extender la distancia de transmisión de información cuántica, algo que no puede lograrse con repetidores clásicos debido al teorema de no clonación (no se puede copiar un estado cuántico).
+
+Funcionan mediante entrelazamiento y teletransportación cuántica, recreando el estado original a lo largo de múltiples nodos intermedios.
+Son fundamentales para construir una red cuántica global o Quantum Internet.
+
+**🔒 Seguridad Post-Cuántica**
+
+La seguridad post-cuántica busca desarrollar algoritmos criptográficos resistentes a ataques de computadores cuánticos.
+Los métodos clásicos (RSA, ECC) serían vulnerables ante algoritmos como Shor, que puede factorizar números grandes eficientemente.
+
+Una de las áreas más prometedoras usa criptografía basada en retículos (lattice-based cryptography), considerada “anti-cuántica” por su resistencia comprobada.
+
+**Librería recomendada:**
+👉 liboqs (Open Quantum Safe) —  https://openquantumsafe.org/
 

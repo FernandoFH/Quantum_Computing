@@ -1,6 +1,6 @@
 # Quantum Computing
 
-- [Certificación Profesional en Quantum Computing - ITBA](./CertificacionProfesional_Quantum.md)
+- [Certificación Profesional en Quantum Computing - ITBA](./QuantumComputing_ITBA/README.md)
 
 - [Quantum computing for the very curious](https://quantum.country/qcvc)
 

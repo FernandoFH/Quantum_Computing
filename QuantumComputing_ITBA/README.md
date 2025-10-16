@@ -126,7 +126,7 @@ Las compuertas cuánticas son los bloques fundamentales de los circuitos cuánti
 
 Estas operaciones modifican el estado cuántico (amplitud y fase) del sistema.
 
-![Quantum gate](./images/QuantumGates.png)
+![Quantum gate](../images/QuantumGates.png)
 
 	•	Hadamard (H): crea superposición.
 	•	Pauli-X, Y, Z: rotaciones en los ejes del espacio de Bloch.
